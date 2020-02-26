@@ -1,6 +1,6 @@
 
 <p align=center>regra de espaçamento</p> 
-<h2><strong align=center>`OS 8 PONTOS`</strong></h2> 
+<h2 align=center><strong>`OS 8 PONTOS`</strong></h2> 
 
 <p>TUDO QUER for multiplo de 8 é usado para ter uma consistência no layout</p>
 
